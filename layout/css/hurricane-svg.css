@@ -19,8 +19,8 @@ line, polyline, path{
 }
 
 .legend-text{
-  fill: black;
-  fill-opacity: 0.55;
+  fill: white;
+  fill-opacity: 0.7;
 }
 
 .floodline {
@@ -161,10 +161,11 @@ line.emphasis, polyline.emphasis {
 
 .island-polygon{
   fill: #d1d6d8;
+  opacity: 0.5;
 }
 
 .ocean-water {
-  fill: #e3eaef;
+  fill: #708090;
   stroke: none;
 }
 

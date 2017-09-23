@@ -100,7 +100,7 @@ var createCache = function(){
   };
 };
 
-var animator = getAnimator(8000);
+var animator = getAnimator(20000);
 var runAnimation = animator[0];
 var pauseAnimation = animator[1];
 
